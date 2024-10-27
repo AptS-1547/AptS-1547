@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=%E2%9D%A4+Hello!+%E2%9D%A4;Welcome+to+my+Github+Profile~;I'm+a+student+from+SCNU+%26+UoA)](https://git.io/typing-svg)
 [![我的 GitHub stats](https://github-readme-stats.vercel.app/api?username=AptS-1547&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-🌆 Daytime                60 commits          ████████████░░░░░░░░░░░░░   48.78 % 
-🌃 Evening                31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                60 commits          ████████████░░░░░░░░░░░░░   48.39 % 
+🌃 Evening                32 commits          ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 
 
@@ -40,5 +40,5 @@ Windows                  50 mins             ███████████�
 ```
 
 
- Last Updated on 27/10/2024 06:41:49 UTC
+ Last Updated on 27/10/2024 16:40:16 UTC
 <!--END_SECTION:waka-->
