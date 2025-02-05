@@ -1,6 +1,36 @@
-<img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=true&width=435&lines=%E2%9D%A4+Hello!+%E2%9D%A4;Welcome+to+my+Github+Profile~;I%27m+a+student+from+SCNU+%26+UoA" />
+# Hello! 👋 I'm AptS:1547! 
 
-[![我的 GitHub stats](https://github-readme-stats.vercel.app/api?username=AptS-1547&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AptS-1547&show_icons=true&theme=transparent)](https://github.com/AptS-1547)
+
+ ![](https://komarev.com/ghpvc/?username=AptS-1547&color=blue&style=flat-square)
+ ![GitHub followers](https://img.shields.io/github/followers/AptS-1547?style=flat-square)
+ ![GitHub User's stars](https://img.shields.io/github/stars/AptS-1547?style=flat-square)
+
+ 💻 Full-Stack Developer / 🎮 Gamer (ETS2 & MSFS) / 🐱 Adolescent Delusions
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,html,css,javascript,typescript,java,kotlin,vue,go,nodejs,cpp,rust" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,docker,vim,vscode,androidstudio,vite,yarn,tailwind,jenkins,wordpress" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,raspberrypi,ubuntu,debian,redhat,kali" /> 
+  </a>
+  <p>In chronological order</p>
+</p>
+
+</div>
+
+## About me
+
+- 💻 Full-stack Developer / In college study
+- 2:39 到底是谁还在写 Github Profile? 先睡觉去了
+
+## Github Activity Graph
+
+[![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2031%20mins-blue)
