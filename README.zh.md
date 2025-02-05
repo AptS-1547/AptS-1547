@@ -1,4 +1,4 @@
-# Hello! 👋 I'm AptS:1547! 
+# 你好! 👋 我是 AptS:1547! 
 
 <div align="center">
 
@@ -12,47 +12,47 @@
  [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white)](https://esaps.net/feed/)
  [![](https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apts-1547@esaps.net)
 
- 💻 Full-Stack Developer / 🎮 Gamer (ETS2 & MSFS) / 🐋 High on Docker
+ 💻 全栈开发者 / 🎮 游戏玩家 (欧卡2 & 微软模拟飞行) / 🐋 Docker 仙人
 
 </div>
 
-## About me
+## 关于我
 
-- 💻 Full-stack Developer / 🏫 In college study
-- 📶 Passionate about Linux system operation and maintenance
-- 📸 Photography enthusiasts
-- ❤ The AptS/ESAP Project sponsor
-- 🐱 Adolescent Delusions
+- 💻 全栈开发者 / 🏫 正在大学学习
+- 📶 热衷于 Linux 运维
+- 📸 喜欢拍照捏~
+- ❤ The AptS/ESAP Project 创建者
+- 🐱 中二病晚期
 
-Hello! I'm AptS:1547! A lively and lovely fox girl~  
-I have been walking on the Internet for almost 8 years~  
-I am not talented, but I am willing to improve together with everyone.  
+你好~ 我是 AptS:1547! 一个活泼可爱的狐狸女孩~  
+我在互联网上行走了将近 8 年了~
+鄙人不才，愿与大家共同进步。
 
-I am currently active in `The ESAP Project` and `BiliBili`, and uses the ids `AptS:1547`, `e1saps` and `esap` on the Internet  
-Am I just an ordinary game player, the more foolish, the more I love to play?  
+我目前活跃在 `The ESAP Project` 和 `BiliBili` 上，互联网上使用 ids `AptS:1547`、`e1saps` 和 `esap`
+我只是一个普通的游戏玩家，越菜越爱玩~
 
-## Tech Stacks
+## 技术栈
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,arduino,php,html,css,javascript,typescript,bash,java,kotlin,vue,go,nodejs,cpp,rust,tailwind" />
 </a>
    
-## Tools
+## 工具
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
 </a>
 
-## <div align="center"> Feel Free to Connect with me 😊 </div>
+## <div align="center"> 随时欢迎与我联系 😊 </div>
 
-**<div align="center">I'm always here waiting for you, please don't be shy! I hope I can bring you happiness~</div>**
+**<div align="center">我一直在这里等着你，别害羞！希望我能给你带来快乐~</div>**
 
 ----------------------
 
-## Github Activity Graph
+## Github 活动图
 
 [![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
 
-## Wakatime Daily Update
+## Wakatime 每日更新
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2034%20mins-blue)
