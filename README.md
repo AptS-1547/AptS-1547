@@ -10,7 +10,7 @@
  
  [![](https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=white)](https://esaps.net/)
  [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white)](https://esaps.net/feed/)
- [![](https://img.shields.io/badge/Gmail-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apts-1547@esaps.net)
+ [![](https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apts-1547@esaps.net)
 
  💻 Full-Stack Developer / 🎮 Gamer (ETS2 & MSFS) / 🐋 High on Docker
 
