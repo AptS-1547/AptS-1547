@@ -12,14 +12,10 @@
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,html,css,javascript,typescript,java,kotlin,vue,go,nodejs,cpp,rust" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,bash,docker,vim,vscode,androidstudio,vite,yarn,tailwind,jenkins,wordpress" />
-    <br />
     <img src="https://skillicons.dev/icons?i=windows,apple,linux,raspberrypi,ubuntu,debian,redhat,kali" /> 
-  </a>
-  <p>In chronological order</p>
-</p>
+   </a>
+   <p>In chronological order</p>
+ </p>
 
 </div>
 
@@ -28,9 +24,22 @@
 - 💻 Full-stack Developer / In college study
 - 2:39 到底是谁还在写 Github Profile? 先睡觉去了
 
+## Tech Stacks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,arduino,php,html,css,javascript,typescript,bash,java,kotlin,vue,go,nodejs,cpp,rust,tailwind" />
+</a>
+   
+## TOOLS
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
+</a>
+
 ## Github Activity Graph
 
 [![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
+
+## Watatime Daily Update
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2031%20mins-blue)
