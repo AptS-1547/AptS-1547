@@ -36,7 +36,7 @@ Am I just an ordinary game player, the more foolish, the more I love to play?
   <img src="https://skillicons.dev/icons?i=py,arduino,php,html,css,javascript,typescript,bash,java,kotlin,vue,go,nodejs,cpp,rust,tailwind" />
 </a>
    
-## TOOLS
+## Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
@@ -44,7 +44,9 @@ Am I just an ordinary game player, the more foolish, the more I love to play?
 
 ## <div align="center"> Feel Free to Connect with me 😊 </div>
 
-I'm always here waiting for you, please don't be shy! I hope I can bring you happiness~
+**<div align="center">I'm always here waiting for you, please don't be shy! I hope I can bring you happiness~</div>**
+
+----------------------
 
 ## Github Activity Graph
 
@@ -53,45 +55,4 @@ I'm always here waiting for you, please don't be shy! I hope I can bring you hap
 ## Watatime Daily Update
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2031%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                168 commits         ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌃 Evening                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Vue.js                   7 hrs 16 mins       █████████████░░░░░░░░░░░░   53.02 % 
-Python                   2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 43 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-VUE-homework-management  6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.01 % 
-homework_management      2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-VUE-HM                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-dynmap                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-LLEPPlugins              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-
-💻 Operating System: 
-Mac                      8 hrs 32 mins       ████████████████░░░░░░░░░   62.31 % 
-Windows                  5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
-```
-
-
- Last Updated on 05/02/2025 16:42:35 UTC
 <!--END_SECTION:waka-->
