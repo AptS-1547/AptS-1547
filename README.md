@@ -12,7 +12,7 @@
  [![](https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white)](https://esaps.net/feed/)
  [![](https://img.shields.io/badge/Gmail-4493f8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apts-1547@esaps.net)
 
- 💻 Full-Stack Developer / 🎮 Gamer (ETS2 & MSFS) / 🐱 Adolescent Delusions
+ 💻 Full-Stack Developer / 🎮 Gamer (ETS2 & MSFS) / 🐋 High on Docker
 
 </div>
 
@@ -28,7 +28,7 @@ Hello! I'm AptS:1547! A lively and lovely fox girl~
 I have been walking on the Internet for almost 8 years~  
 I am not talented, but I am willing to improve together with everyone.  
 
-I am currently active in the ESAP Project and bilibili, and uses the ids `AptS:1547`, `e1saps` and `esap` on the Internet  
+I am currently active in The ESAP Project and BiliBili, and uses the ids `AptS:1547`, `e1saps` and `esap` on the Internet  
 Am I just an ordinary game player, the more foolish, the more I love to play?  
 
 ## Tech Stacks
