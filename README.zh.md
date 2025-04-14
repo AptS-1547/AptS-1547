@@ -58,9 +58,13 @@
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
 </a>
 
-## <div align="center"> 随时欢迎与我联系 😊 </div>
+<div align="center">
+  <h2>随时欢迎与我联系 😊</h2>
+</div>
 
-**<div align="center">我一直在这里等着你，别害羞！希望我能给你带来快乐~</div>**
+<div align="center">
+  <strong>我一直在这里等着你，别害羞！希望我能给你带来快乐~</strong>
+</div>
 
 ----------------------
 

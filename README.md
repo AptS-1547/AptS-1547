@@ -58,9 +58,13 @@ Am I just an ordinary game player, the more foolish, the more I love to play?
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
 </a>
 
-## <div align="center"> Feel Free to Connect with me 😊 </div>
+<div align="center">
+  <h2>Feel Free to Connect with me 😊</h2>
+</div>
 
-**<div align="center">I'm always here waiting for you, please don't be shy! I hope I can bring you happiness~</div>**
+<div align="center">
+  <strong>I'm always here waiting for you, please don't be shy! I hope I can bring you happiness~</strong>
+</div>
 
 ----------------------
 
