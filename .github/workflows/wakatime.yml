@@ -17,6 +17,7 @@ jobs:
           COMMIT_EMAIL: "apts-1548@esaps.net"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
