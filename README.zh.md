@@ -72,7 +72,7 @@
 
 [![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
 
-## Wakatime 每日更新
+## Wakatime 不定期更新
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2018%20mins-blue)
