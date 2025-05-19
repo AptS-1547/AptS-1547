@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>你好! 👋 我是 AptS:1547!</h1>
+  <h1>你好！👋 我是 AptS:1547</h1>
+  <p>也许是一只狐狸娘，也许是系统管理员的幻觉，也许只是个在黑暗中待太久，从阴影里学会写代码的人。</p>
 </div>
 
 <div align="center">
-
   <p>
     <a href="https://github.com/AptS-1547">
       <img src="https://github-readme-stats.vercel.app/api?username=AptS-1547&show_icons=true&theme=transparent" />
@@ -17,105 +17,78 @@
   </p>
 
   <p>
-  <a href="https://www.esaps.net/">
-    <img src="https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://wwwesaps.net/feed/">
-    <img src="https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white" />
-  </a>
-  <a href="mailto:apts-1547@esaps.net">
-    <img src="https://img.shields.io/badge/Email-4493f8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- </p>
+    <a href="https://www.esaps.net/">
+      <img src="https://img.shields.io/badge/网站-4493f8?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+    <a href="https://wwwesaps.net/feed/">
+      <img src="https://img.shields.io/badge/RSS订阅-4493f8?style=for-the-badge&logo=rss&logoColor=white" />
+    </a>
+    <a href="mailto:apts-1547@esaps.net">
+      <img src="https://img.shields.io/badge/邮箱-4493f8?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
- 💻 全栈开发者 / 🎮 游戏玩家 (欧卡2 & 微软模拟飞行) / 🐋 Docker 仙人
-
+  <p>
+    💻 全栈开发者 / 🎮 游戏玩家（ETS2 & MSFS） / 🐋 沉迷 Docker 无法自拔
+  </p>
 </div>
+
+---
 
 ## 关于我
 
-- 💻 全栈开发者 / 🏫 正在大学学习
-- 📶 热衷于 Linux 运维
-- 📸 喜欢拍照捏~
-- ❤ The AptS/ESAP Project 创建者
-- 🐱 中二病晚期
+- 💻 白天是全栈开发者 / 大学生  
+- 📶 Linux 系统运维爱好者  
+- 📸 摄影控，追逐影子、猫咪与奇异反光  
+- ❤ AptS/ESAP 项目的发起人和架构师  
+- 🐱 被诊断为“中二病晚期”（别问）
 
-你好~ 我是 AptS:1547! 一个活泼可爱的狐狸女孩~  
-我在互联网上行走了将近 8 年了~  
-鄙人不才，愿与大家共同进步。  
+Silence once defined me — but now, even YAML won’t shut up.  
+我曾消失于沉默，但总会带着新伤疤、日志，和几个 `.sh` 脚本归来。
 
-我目前活跃在 `The ESAP Project` 和 `BiliBili` 上，互联网上使用 ids `AptS:1547`、`e1saps` 和 `esap`  
-我只是一个普通的游戏玩家，越菜越爱玩~
+如果你是破碎的、古怪的、或者只是迷路的——我或许正好有一个奇怪脚本，或一个安静的地方为你预留。
+
+---
+
+### 隐藏任务
+
+- 在 `user.slice` 中低语与进程沟通  
+- 向防火墙解释 IPv6 的原理  
+- 在 `/tmp/midnight.log` 中调试梦境  
+- 在 `.hidden` 文件夹里喂养被遗忘的狐狸  
+
+如果你觉得似曾相识——那你可能已经闯进了 ESAP 的某个角落。
+
+---
 
 ## 技术栈
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,arduino,php,html,css,javascript,typescript,bash,java,kotlin,vue,go,nodejs,cpp,rust,tailwind" />
 </a>
-   
-## 工具
+
+## 工具链
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,au,blender,visualstudio,vscode,androidstudio,idea,anaconda,gradle,maven,npm,vite,yarn,cloudflare,docker,git,github,githubactions,jenkins,nginx,workers,wordpress,sentry,grafana,prometheus,postgres,mysql,mongodb,redis" />
 </a>
 
 <div align="center">
-  <h2>随时欢迎与我联系 😊</h2>
+  <h2>欢迎联系我 😊</h2>
+  <strong>我一直在这里等你，不要害羞哦！希望我能为你带来一点点快乐~</strong>
 </div>
 
-<div align="center">
-  <strong>我一直在这里等着你，别害羞！希望我能给你带来快乐~</strong>
-</div>
+---
 
-----------------------
+## Github 活动图表
 
-## Github 活动图
+[![AptS:1547 的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
 
-[![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
-
-## Wakatime 不定期更新
+## Wakatime 每日更新
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2018%20mins-blue)
+![编码时间](http://img.shields.io/badge/编码时间-510小时50分钟-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-546.4%20thousand%20lines%20of%20code-blue)
+![代码行数](https://img.shields.io/badge/自从%20Hello%20World%20起已写下-618.3千行代码-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                979 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                846 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌙 Night                  499 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   7 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
-Other                    2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Rust                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 2 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Bj35-bot                 9 hrs 5 mins        █████████████░░░░░░░░░░░░   53.37 % 
-rust-hwsystem-next       3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-WeatherBot               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-AbdnSI                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-rust-abdsso              58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-
-💻 Operating System: 
-Mac                      14 hrs              █████████████████████░░░░   82.19 % 
-Windows                  3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-```
-
-
- Last Updated on 03/05/2025 16:42:50 UTC
 <!--END_SECTION:waka-->
