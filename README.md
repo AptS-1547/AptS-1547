@@ -70,17 +70,17 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2050%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-710.8%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-🌆 Daytime                1249 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌃 Evening                1053 commits        ████████░░░░░░░░░░░░░░░░░   30.08 % 
-🌙 Night                  784 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌞 Morning                413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌆 Daytime                1249 commits        █████████░░░░░░░░░░░░░░░░   35.66 % 
+🌃 Evening                1057 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌙 Night                  784 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 
 
@@ -113,7 +113,7 @@ Windows                  4 hrs 30 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 03/06/2025 11:50:26 UTC
+ Last Updated on 03/06/2025 16:51:27 UTC
 <!--END_SECTION:waka-->
 
 ---
