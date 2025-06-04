@@ -24,7 +24,7 @@
     <a href="https://www.esaps.net/">
       <img src="https://img.shields.io/badge/website-4493f8?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-    <a href="https://wwwesaps.net/feed/">
+    <a href="https://www.esaps.net/feed/">
       <img src="https://img.shields.io/badge/RSS-4493f8?style=for-the-badge&logo=rss&logoColor=white" />
     </a>
     <a href="mailto:apts-1547@esaps.net">
