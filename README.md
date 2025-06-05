@@ -1,5 +1,26 @@
+<pre>
+
+```
+        ／＞　 フ
+       | 　_　_|    AptS:1547
+     ／` ミ＿xノ    — shortlinker assistant bot —
+    /　　　　 |
+   /　 ヽ　　 ﾉ      Rust / SQLite / Bloom / CLI
+   │　　|　|　|
+／￣|　　 |　|　|
+(￣ヽ＿_ヽ_)__)
+＼二)
+
+   「ready to 307 !」
+```
+
+> [🔗 Visit Project Docs](https://www.esaps.net/)
+> [💬 Powered by AptS](https://github.com/AptS-1547)
+
+</pre>
+
+
 <div align="center">
-  <h1>Hello! 👋 I'm AptS:1547</h1>
   <p><em>Maybe a foxgirl, maybe a system admin hallucination, maybe just someone who stayed too long in the dark and learned to code from the shadows.</em></p>
   
   <p>
