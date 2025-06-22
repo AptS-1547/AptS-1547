@@ -52,17 +52,17 @@
 
 ### **Languages & Frameworks**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,javascript,typescript,vue,nodejs,php,html,css,java,kotlin,go,cpp,rust,bash,tailwind" />
+  <img src="https://skillicons.dev/icons?i=py,javascript,typescript,vue,nodejs,php,r,html,css,java,kotlin,go,c,cs,cpp,rust,bash,tailwind" />
 </a>
 
 ### **DevOps & Tools**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,nginx,cloudflare,workers,grafana,prometheus,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,nginx,cloudflare,workers,grafana,prometheus,sqlite,postgres,mysql,mongodb,redis" />
 </a>
 
 ### **Creative & Development Environment**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,blender,ps,pr,ae,au" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,arduino,blender,ps,pr,ae,au" />
 </a>
 
 ---
