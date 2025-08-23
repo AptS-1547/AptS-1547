@@ -70,17 +70,17 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-🌆 Daytime                1391 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌃 Evening                1305 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌙 Night                  1085 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌞 Morning                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌆 Daytime                1391 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
+🌃 Evening                1307 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌙 Night                  1086 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 ```
 
 
@@ -90,20 +90,20 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/08/2025 16:47:05 UTC
+ Last Updated on 23/08/2025 16:43:05 UTC
 <!--END_SECTION:waka-->
 
 ---
