@@ -12,9 +12,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Update WakaTime Stats
         uses: AptS-1547/wakatime-readme-updater@v1.0.0
         with:
