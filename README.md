@@ -70,34 +70,8 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 3 hrs 12 mins
+**🕐 Total Coding Time**: 0 mins
 
-**💻 Programming Languages**:
-```text
-Markdown        █████████░░░░░░░░░░░░░░░░ 37.90% 1 hr 21 mins
-Go              █████████░░░░░░░░░░░░░░░░ 36.51% 1 hr 18 mins
-Other           ███░░░░░░░░░░░░░░░░░░░░░░ 10.78% 23 mins
-YAML            █░░░░░░░░░░░░░░░░░░░░░░░░  5.49% 11 mins
-TOML            █░░░░░░░░░░░░░░░░░░░░░░░░  4.00% 8 mins
-```
-
-**🛠️ Editors**:
-```text
-VS Code         █████████████████████████ 100.00%
-```
-
-**💻 Operating Systems**:
-```text
-Mac             █████████████████████████ 100.00%
-```
-
-**📂 Projects**:
-```text
-go-backend-template            ███████████░░░░░░░░░░░░░░ 45.01%
-2026-Study                     ███████░░░░░░░░░░░░░░░░░░ 29.09%
-mailserver                     ████░░░░░░░░░░░░░░░░░░░░░ 17.69%
-go-si-v2                       ██░░░░░░░░░░░░░░░░░░░░░░░  8.21%
-```
 
 <!--END_SECTION:waka-->
 
