@@ -70,8 +70,33 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 0 mins
+**🕐 Total Coding Time**: 2 hrs 26 mins
 
+**💻 Programming Languages**:
+```text
+TypeScript      ██████████████░░░░░░░░░░░ 54.65% 1 hr 23 mins
+Rust            ██████░░░░░░░░░░░░░░░░░░░ 23.77% 36 mins
+TeX             ██░░░░░░░░░░░░░░░░░░░░░░░  8.30% 12 mins
+JSON            ██░░░░░░░░░░░░░░░░░░░░░░░  6.34% 9 mins
+Other           █░░░░░░░░░░░░░░░░░░░░░░░░  3.65% 5 mins
+```
+
+**🛠️ Editors**:
+```text
+VS Code         █████████████████████████ 100.00%
+```
+
+**💻 Operating Systems**:
+```text
+Mac             █████████████████████████ 100.00%
+```
+
+**📂 Projects**:
+```text
+AsterDrive                     ███████████████████████░░ 91.25%
+2026-Study                     ██░░░░░░░░░░░░░░░░░░░░░░░  8.30%
+admin-panel                    ░░░░░░░░░░░░░░░░░░░░░░░░░  0.45%
+```
 
 <!--END_SECTION:waka-->
 
