@@ -70,22 +70,21 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 67 hrs 33 mins
+**🕐 Total Coding Time**: 73 hrs 1 mins
 
 **💻 Programming Languages**:
 ```text
-Rust            ███████████████████░░░░░░ 75.76% 53 hrs 13 mins
-Markdown        ██░░░░░░░░░░░░░░░░░░░░░░░  7.88% 5 hrs 32 mins
-TypeScript      █░░░░░░░░░░░░░░░░░░░░░░░░  5.11% 3 hrs 35 mins
-Other           █░░░░░░░░░░░░░░░░░░░░░░░░  3.85% 2 hrs 42 mins
-TOML            █░░░░░░░░░░░░░░░░░░░░░░░░  3.17% 2 hrs 13 mins
+Rust            ████████████████░░░░░░░░░ 65.15% 49 hrs 38 mins
+Markdown        ██░░░░░░░░░░░░░░░░░░░░░░░  9.44% 7 hrs 11 mins
+TypeScript      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32% 5 hrs 34 mins
+Bash            █░░░░░░░░░░░░░░░░░░░░░░░░  5.96% 4 hrs 32 mins
+Other           █░░░░░░░░░░░░░░░░░░░░░░░░  4.17% 3 hrs 10 mins
 ```
 
 **🛠️ Editors**:
 ```text
-Codex CLI       ███████████████████░░░░░░ 77.84%
-VS Code         ██████░░░░░░░░░░░░░░░░░░░ 22.06%
-Claude Code     ░░░░░░░░░░░░░░░░░░░░░░░░░  0.10%
+Codex CLI       ████████████████████░░░░░ 80.26%
+VS Code         █████░░░░░░░░░░░░░░░░░░░░ 19.74%
 ```
 
 **💻 Operating Systems**:
@@ -95,11 +94,11 @@ Mac             █████████████████████�
 
 **📂 Projects**:
 ```text
-AsterDrive                     ███████████████░░░░░░░░░░ 61.65%
-AsterForge                     █████░░░░░░░░░░░░░░░░░░░░ 20.91%
-AsterDriveMigration            ███░░░░░░░░░░░░░░░░░░░░░░ 10.47%
-esap                           ░░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
-digital-code-studio            ░░░░░░░░░░░░░░░░░░░░░░░░░  1.60%
+AsterDrive                     ██████████████████░░░░░░░ 72.43%
+AsterDriveMigration            ██░░░░░░░░░░░░░░░░░░░░░░░  9.66%
+tokun-cn                       ██░░░░░░░░░░░░░░░░░░░░░░░  9.14%
+esap                           █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+AsterForge                     █░░░░░░░░░░░░░░░░░░░░░░░░  2.08%
 ```
 
 <!--END_SECTION:waka-->
