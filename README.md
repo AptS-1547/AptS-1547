@@ -119,7 +119,7 @@ go-si-v2                       ██░░░░░░░░░░░░░░�
 
 ## 📈 Github Activity Graph
 
-[![AptS:1547's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AptS-1547&theme=react-dark)](https://github.com/AptS-1547)
+<img alt="Never Gonna Give You Up☝️&quot;Never Gonna Let You Down👇&quot;" src="https://github.com/AptS-1547/AptS-1547/blob/master/assets/nice.gif?raw=true" width="100%">
 
 ---
 
