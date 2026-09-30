@@ -70,22 +70,22 @@
 ## 📊 Coding Insights
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 69 hrs 48 mins
+**🕐 Total Coding Time**: 65 hrs 17 mins
 
 **💻 Programming Languages**:
 ```text
-YAML            ████████░░░░░░░░░░░░░░░░░ 30.75% 22 hrs 8 mins
-Markdown        █████░░░░░░░░░░░░░░░░░░░░ 21.77% 15 hrs 40 mins
-Ruby            █████░░░░░░░░░░░░░░░░░░░░ 19.81% 14 hrs 15 mins
-Bash            ███░░░░░░░░░░░░░░░░░░░░░░ 12.58% 9 hrs 3 mins
-TypeScript      █░░░░░░░░░░░░░░░░░░░░░░░░  3.63% 2 hrs 36 mins
+YAML            ███████░░░░░░░░░░░░░░░░░░ 28.32% 19 hrs 2 mins
+Markdown        █████░░░░░░░░░░░░░░░░░░░░ 21.38% 14 hrs 22 mins
+Ruby            █████░░░░░░░░░░░░░░░░░░░░ 19.49% 13 hrs 6 mins
+Bash            ███░░░░░░░░░░░░░░░░░░░░░░ 12.05% 8 hrs 6 mins
+TypeScript      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89% 2 hrs 36 mins
 ```
 
 **🛠️ Editors**:
 ```text
-Codex Vscode    █████████████░░░░░░░░░░░░ 52.18%
-Codex CLI       ██████████░░░░░░░░░░░░░░░ 38.69%
-VS Code         ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
+Codex Vscode    ████████████████░░░░░░░░░ 63.09%
+Codex CLI       ███████░░░░░░░░░░░░░░░░░░ 26.26%
+VS Code         ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
 ```
 
 **💻 Operating Systems**:
@@ -95,11 +95,11 @@ Mac             █████████████████████�
 
 **📂 Projects**:
 ```text
-k8s-ops                        █████████████████████░░░░ 82.04%
-go-board                       █░░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-AgentLoom                      █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
-introduction                   ░░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
-Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+k8s-ops                        ███████████████████░░░░░░ 75.38%
+go-board                       █░░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+AgentLoom                      █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
+Unknown Project                ░░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+introduction                   ░░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
 ```
 
 <!--END_SECTION:waka-->
